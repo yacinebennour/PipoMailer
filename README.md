@@ -17,16 +17,16 @@ Fast, easy and multi-platform email marketing manager! Easily send thousands of 
 ## SOURCE CODE WILL BE POSTED AFTER SOME FORMATTING ISSUES ARE RESOLVED!
 ## FOR NOW RUN THE PROGRAM THAT MATCHES YOUR OPERARTING SYSTEM! WILL ADD WINDOWS & LINUX SOON!
 
+Ignore this part until source code is uploaded!
 
+~~### Executing program~~
 
-~~
-### Executing program
-
-```
+~~```
 npm i puppeteer nodemailer
 node index.js
-```
-~~
+~~```~~
+
+
 ## Authors
 
 YBen
