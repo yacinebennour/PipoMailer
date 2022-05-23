@@ -5,26 +5,26 @@ Fast, easy and multi-platform email marketing manager! Easily send thousands of 
 
 ### Dependencies
 
-* Puppeteer
+* Electron
 * Nodemailer
 * NodeJS
 
 ### Installing
 
-* Simply run index.js!
+* Simply run DMG file or re-compile for specific operating system.
 
 
-## SOURCE CODE WILL BE POSTED AFTER SOME FORMATTING ISSUES ARE RESOLVED!
+## You must enable GMail login to use SMTP client (Googles).
 ## FOR NOW RUN THE PROGRAM THAT MATCHES YOUR OPERARTING SYSTEM! WILL ADD WINDOWS & LINUX SOON!
 
 Ignore this part until source code is uploaded!
 
-~~### Executing program~~
+### Executing program
 
-~~```
-npm i puppeteer nodemailer
-node index.js
-~~```~~
+```
+Download Pipo-Mailer DMG file for Mac!
+compile via electron for other OS.
+```
 
 
 ## Authors
