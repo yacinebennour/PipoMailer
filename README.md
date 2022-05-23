@@ -5,13 +5,13 @@ Fast, easy and multi-platform email marketing manager! Easily send thousands of 
 
 ### Dependencies
 
-* Electron
+* ElectronJS
 * Nodemailer
 * NodeJS
 
 ### Installing
 
-* Simply run DMG file or re-compile for specific operating system.
+* Simply compile for specific operating system.
 
 
 ## You must enable GMail login to use SMTP client (Googles).
@@ -22,8 +22,7 @@ Ignore this part until source code is uploaded!
 ### Executing program
 
 ```
-Download Pipo-Mailer DMG file for Mac!
-compile via electron for other OS.
+compile via Electron JSfor other OS.
 ```
 
 
